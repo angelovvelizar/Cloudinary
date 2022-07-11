@@ -1,6 +1,6 @@
 package com.example.cloudinaryapi.web;
 
-import com.example.cloudinaryapi.model.entity.binding.PictureBindingModel;
+import com.example.cloudinaryapi.model.binding.PictureBindingModel;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

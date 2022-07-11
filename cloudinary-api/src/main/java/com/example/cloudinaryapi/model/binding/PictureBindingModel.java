@@ -1,4 +1,4 @@
-package com.example.cloudinaryapi.model.entity.binding;
+package com.example.cloudinaryapi.model.binding;
 
 import org.springframework.web.multipart.MultipartFile;
 
