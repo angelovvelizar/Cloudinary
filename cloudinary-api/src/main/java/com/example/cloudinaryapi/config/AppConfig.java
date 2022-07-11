@@ -11,6 +11,8 @@ public class AppConfig {
 
     private final CloudinaryConfig config;
 
+
+
     public AppConfig(CloudinaryConfig config) {
         this.config = config;
     }
