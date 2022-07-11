@@ -10,11 +10,14 @@ public class CloudinaryConfig {
     private String apiKey;
     private String apiSecret;
 
-
     public String getCloudName() {
         return cloudName;
     }
 
+    /**
+     * Sets the cloud name associated with the cloudinary account
+     * @param cloudName the cloud name associated with the cloudinary account
+     */
     public void setCloudName(String cloudName) {
         this.cloudName = cloudName;
     }
